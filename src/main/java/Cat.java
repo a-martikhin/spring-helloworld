@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class Cat {
 
     private String message;
 
@@ -11,5 +11,4 @@ public class HelloWorld {
 
         this.message = message;
     }
-
 }
